@@ -5,7 +5,7 @@ int main(void)
     int answer, guess;
     int count=0;
     
-    scanf("%d\n", &answer);
+    scanf("%d", &answer);
     
     do{
         scanf("%d", &guess);
